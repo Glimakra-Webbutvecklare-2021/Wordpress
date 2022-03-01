@@ -7,8 +7,8 @@ I detta caset ska ni få arbeta i grupp för att hjälpa ett fiktivt företag. S
 ### 1. Välj företagscenario
 Ni får välja mellan följande
 - Det lilla bryggeriet i Sösdala
-- Startup företaget som gör ekologiska påsar
-- Skärgårdssafaribåten i Karlskrona
+- Startup företaget som gör ekologiska påsar för kaffe.
+- Tumlarsafari vid Kullensfyr
 - Den stora orienteringstävlingen som detta år är i Glimåkra
 - Lite exklusiva kallbadhuset vid Immeln
 - Mindfullnessgården i Snöarp
