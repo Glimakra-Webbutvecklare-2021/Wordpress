@@ -8,7 +8,7 @@ I detta caset ska ni få arbeta i grupp för att hjälpa ett fiktivt företag. S
 Ni får välja mellan följande
 - Det lilla bryggeriet i Sösdala
 - Startup företaget som gör ekologiska påsar för kaffe.
-- Tumlarsafari vid Kullensfyr
+- Tumlaresafari vid Kullensfyr
 - Den stora orienteringstävlingen som detta år är i Glimåkra
 - Lite exklusiva kallbadhuset vid Immeln
 - Mindfullnessgården i Snöarp
