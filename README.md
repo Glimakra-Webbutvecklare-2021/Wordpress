@@ -9,6 +9,7 @@ Ni får välja mellan följande
 - Det lilla bryggeriet i Sösdala
 - Startup företaget som gör ekologiska påsar för kaffe.
 - Tumlaresafari vid Kullensfyr
+- Torktumlarsafari på Emporia
 - Den stora orienteringstävlingen som detta år är i Glimåkra
 - Lite exklusiva kallbadhuset vid Immeln
 - Mindfullnessgården i Snöarp
