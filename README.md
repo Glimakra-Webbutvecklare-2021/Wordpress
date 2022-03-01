@@ -30,6 +30,7 @@ Arbeta med Wordpress för att förverkliga idéskissen. Ni är fria att använda
 - Ska finnas en anpassad minst mobilvy och desktop-vy
 - Varje gruppmedlem ska produceras minst en sida
 - En användare ska kunna skicka in information
+- Er wordpress ska vara hostad på en i gruppens Linode-server
 
 ## Redovisning
 Redovisning av hemsida - Onsdag 6:e April
