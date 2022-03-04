@@ -41,4 +41,21 @@ Redovisning av hemsida - Onsdag 6:e April
 - wordpress.com
 
 ## Gruppindelning
-Kommer uppdateras senare
+| Namn | Grupp |
+| ----------- | ----------- |
+| Simon | 1 |
+| Tim | 1 |
+| August | 1 |
+| Niclas | 2 |
+| Anna | 2 |
+| Annie | 2 |
+| Amanda | 3 |
+| Joakim | 3 |
+| Veronica | 3 |
+| Susanne | 4 |
+| John | 4 |
+| Hindrik | 4 |
+| Alvina | 5 |
+| Silje | 5 |
+| Christoffer | 6 |
+| Johanna | 6 |
