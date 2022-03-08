@@ -41,21 +41,21 @@ Redovisning av hemsida - Onsdag 6:e April
 - wordpress.com
 
 ## Gruppindelning
-| Namn | Grupp |
-| ----------- | ----------- |
-| Simon | 1 |
-| Tim | 1 |
-| August | 1 |
-| Niclas | 2 |
-| Anna | 2 |
-| Annie | 2 |
-| Amanda | 3 |
-| Joakim | 3 |
-| Veronica | 3 |
-| Susanne | 4 |
-| John | 4 |
-| Hindrik | 4 |
-| Alvina | 5 |
-| Silje | 5 |
-| Christoffer | 6 |
-| Johanna | 6 |
+| Namn | Grupp | Kundscenario
+| ----------- | ----------- | ----------- |
+| Simon | 1 | TBD |
+| Tim | 1 | TBD |
+| August | 1 | TBD |
+| Niclas | 2 | Safari |
+| Anna | 2 | Safari |
+| Annie | 2 | Safari |
+| Amanda | 3 | SPA/Retreat (Kallbadhus) |
+| Joakim | 3 | SPA/Retreat (Kallbadhus) |
+| Veronica | 3 | SPA/Retreat (Kallbadhus) |
+| Susanne | 4 | Kaffe |
+| John | 4 | Kaffe |
+| Hindrik | 4 | Kaffe | 
+| Alvina | 5 | Ovanliga blommor lexikon |
+| Silje | 5 | Ovanliga blommor lexikon |
+| Christoffer | 6 | Bryggeri |
+| Johanna | 6 | Bryggeri |
