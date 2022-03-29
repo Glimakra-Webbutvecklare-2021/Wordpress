@@ -36,6 +36,26 @@ Arbeta med Wordpress för att förverkliga idéskissen. Ni är fria att använda
 ## Redovisning
 Redovisning av hemsida - Onsdag 6:e April
 
+### Presentation
+Vi har tänkt att ni skall göra en presentation av projektet i ca 10 min, så att det finns mycket tid för frågor och diskussion.
+
+#### Att tänka på inför redovisningen:
+- Skapa en presentation som ni kan utgå från som visar era tankar kring branding, wireframe process etc.
+- Ni skall presentera vem som har gjort vilka delar i projektet.
+- Vad som var svårt/lätt?
+- Vad som var kul/mindre kul?
+- Hur var det att arbeta i grupp?
+- Om vi hade haft mer tid hade vi fokuserat på....
+
+### "Opponering"
+Under redovisningen så kommer ni en annan grupp få "opponera" mot en annan grupp, vi har valt att göra så att grupp 1 opponerar mot grupp 2, Grupp 2 mot grupp 3 osv. Så på måndag nästa vecka måste den opponerande gruppen få tillgång till miljön.
+
+#### Att tänka på vid "opponering"
+I huvudsak handlar det om att ni skall ställa frågor till gruppen, t ex Hur löste ni detta? Vi gillade detta... 
+
+### Feedback
+Vi kommer att utnyttja hela dagen till redovisningar så vi har gott om tid för varje. Efter "opponeringen", kommer vi lärare att ge vår muntliga feedback.
+
 ## Resurser
 - wpbeginner.com
 - wordpress.com
@@ -43,9 +63,9 @@ Redovisning av hemsida - Onsdag 6:e April
 ## Gruppindelning
 | Namn | Grupp | Kundscenario
 | ----------- | ----------- | ----------- |
-| Simon | 1 | TBD |
-| Tim | 1 | TBD |
-| August | 1 | TBD |
+| Simon | 1 | Surfbutik & Bar |
+| Tim | 1 | Surfbutik & Bar |
+| August | 1 | Surfbutik & Bar |
 | Niclas | 2 | Safari |
 | Anna | 2 | Safari |
 | Annie | 2 | Safari |
